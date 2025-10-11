@@ -1,0 +1,10 @@
+* cl-tuition
+
+A Common Lisp library for building TUIs
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/atgreen/cl-tuition.git |
+| commit  | 890d3fd                                       |
+| systems | tuition                                       |
+|---------+-----------------------------------------------|
+
