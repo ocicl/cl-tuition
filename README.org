@@ -4,7 +4,7 @@ A Common Lisp library for building TUIs
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/atgreen/cl-tuition.git |
-| commit  | 93bc49f                                       |
+| commit  | a58144f                                       |
 | systems | tuition                                       |
 |---------+-----------------------------------------------|
 
